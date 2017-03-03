@@ -1,0 +1,15 @@
+{
+  "name": "nginx-add-reverse-proxy",
+  "version": "0.0.0",
+  "description": "Just a NGINX add-reverse-proxy entry services. Build for landingpage.services free tool.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Nacho Coll <ignacio.coll@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "body-parser": "~1.16.1",
+    "child-process":"~1.0.2",
+    "util":"~0.10.3"
+  }
+}
